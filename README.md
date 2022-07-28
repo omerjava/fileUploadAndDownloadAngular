@@ -9,9 +9,9 @@ and downloading uploaded files from backend server.
 
 This project is developed based on [tutorial](https://www.youtube.com/watch?v=n26StCRoeHA) by Get Arrays. 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
-
 ## Development server
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
